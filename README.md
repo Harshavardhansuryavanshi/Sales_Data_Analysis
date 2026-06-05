@@ -40,6 +40,9 @@ It contains restaurant-related information such as:
 
 - ![image alt](https://github.com/Harshavardhansuryavanshi/Sales_Data_Analysis/blob/5d1e38553cfeed925b1c3c9bb158aed46b7808ce/resturant_distribition.png)
 
+- Rating's of the website and votes given by the users will shown in graph
+- 
+
 
 
 
