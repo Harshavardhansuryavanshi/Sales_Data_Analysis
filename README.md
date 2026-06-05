@@ -47,6 +47,10 @@ It contains restaurant-related information such as:
  listed types of numbers online order will be shown in graph using heat map 
 
  ![image alt](https://github.com/Harshavardhansuryavanshi/Sales_Data_Analysis/blob/c1a11c57356c60789185d48c9bbca759824746dd/online%20order.png)
+
+ ![image alt](https://github.com/Harshavardhansuryavanshi/Sales_Data_Analysis/blob/bf2d44f13779a8a6f3f46f65c76c2c150bbb5891/list.png)
+
+ 
  
  
 
