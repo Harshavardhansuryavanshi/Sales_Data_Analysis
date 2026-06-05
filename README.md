@@ -50,6 +50,10 @@ It contains restaurant-related information such as:
 
  ![image alt](https://github.com/Harshavardhansuryavanshi/Sales_Data_Analysis/blob/bf2d44f13779a8a6f3f46f65c76c2c150bbb5891/list.png)
 
+ ![image alt](https://github.com/Harshavardhansuryavanshi/Sales_Data_Analysis/blob/c72cda65320cd78500ba1495881698d1cb1510f1/list.png)
+
+ 
+
  
  
  
